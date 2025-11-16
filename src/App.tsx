@@ -65,9 +65,9 @@ function App() {
   const secondaryVideoRef = useRef<HTMLVideoElement>(null);
 
   const videos = [
-    '/background 1.mp4',
-    '/background 2.mp4', 
-    '/background 3.mp4',
+    '/background-1.mp4',
+    '/background-2.mp4', 
+    '/background-3.mp4',
     '/background.mp4'
   ];
   const maxRepeats = 3;
